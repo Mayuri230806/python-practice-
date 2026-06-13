@@ -1,0 +1,1 @@
+{'aman': 90, 'rohan': 98, 'shyam': 85, 'radha': 99}
